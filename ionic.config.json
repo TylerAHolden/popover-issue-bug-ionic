@@ -1,0 +1,7 @@
+{
+  "name": "popover-bug-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
